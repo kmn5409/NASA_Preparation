@@ -4,3 +4,5 @@ Official guide can be found [here](https://www.tensorflow.org/tutorials/keras/ba
 Using the [Convolutional Neural Network](https://www.tensorflow.org/alpha/tutorials/images/intro_to_cnns)
 <br>
 Next [implementation](https://www.datacamp.com/community/tutorials/cnn-tensorflow-python) I will be looking at
+<br>
+Another [guide](https://adventuresinmachinelearning.com/convolutional-neural-networks-tutorial-tensorflow/) to implement?
